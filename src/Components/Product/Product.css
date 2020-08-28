@@ -1,0 +1,25 @@
+
+.product {
+    display: flex;
+    border-bottom:1px solid lightgrey;
+    margin-top: 10px;
+    padding-bottom: 15px;
+
+}
+.title{
+  color: tomato;
+  font-weight: 500;
+}
+
+.main-button {
+    background-color: cyan;
+    width:200px;
+    border:1px solid grey;
+    border-radius:5px;
+    font-size: 20px;
+}
+
+.product-info {
+    margin-left: 20px;
+    margin-top: -20px;
+}

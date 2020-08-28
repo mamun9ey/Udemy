@@ -1,0 +1,24 @@
+header {
+    text-align: center;
+}
+
+header img {
+    width: 20%;
+}
+
+header nav {
+    background-color:cyan;
+    line-height: 40px;
+    font-size:20px;
+}
+
+nav a {
+    margin-right: 20px;
+    padding: 10px;
+    
+    
+}
+
+nav a:hover {
+    background-color:tomato;
+}
