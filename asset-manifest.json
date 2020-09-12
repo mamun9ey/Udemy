@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Udemy/static/css/main.849fde7f.chunk.css",
+    "main.js": "/Udemy/static/js/main.5e84581a.chunk.js",
+    "main.js.map": "/Udemy/static/js/main.5e84581a.chunk.js.map",
+    "runtime-main.js": "/Udemy/static/js/runtime-main.9efd751e.js",
+    "runtime-main.js.map": "/Udemy/static/js/runtime-main.9efd751e.js.map",
+    "static/css/2.894a1137.chunk.css": "/Udemy/static/css/2.894a1137.chunk.css",
+    "static/js/2.905e1c64.chunk.js": "/Udemy/static/js/2.905e1c64.chunk.js",
+    "static/js/2.905e1c64.chunk.js.map": "/Udemy/static/js/2.905e1c64.chunk.js.map",
+    "index.html": "/Udemy/index.html",
+    "precache-manifest.50c9d48b74b5a5cca97242e64199ec0a.js": "/Udemy/precache-manifest.50c9d48b74b5a5cca97242e64199ec0a.js",
+    "service-worker.js": "/Udemy/service-worker.js",
+    "static/css/2.894a1137.chunk.css.map": "/Udemy/static/css/2.894a1137.chunk.css.map",
+    "static/css/main.849fde7f.chunk.css.map": "/Udemy/static/css/main.849fde7f.chunk.css.map",
+    "static/js/2.905e1c64.chunk.js.LICENSE.txt": "/Udemy/static/js/2.905e1c64.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.css": "/Udemy/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/udemy.jpg": "/Udemy/static/media/udemy.a80cb03c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9efd751e.js",
+    "static/css/2.894a1137.chunk.css",
+    "static/js/2.905e1c64.chunk.js",
+    "static/css/main.849fde7f.chunk.css",
+    "static/js/main.5e84581a.chunk.js"
+  ]
+}
